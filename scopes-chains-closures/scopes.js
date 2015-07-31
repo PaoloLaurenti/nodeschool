@@ -2,6 +2,9 @@ function foo() {
   var bar;
   quux = 42;
   function zip() {
-    var quux = 42+42;
+    var quux = 42+42
+    bar = true;
   }
+
+  return zip;
 }
