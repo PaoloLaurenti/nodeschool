@@ -1,0 +1,24 @@
+{
+  "name": "nodeschool",
+  "version": "1.0.0",
+  "description": "My implementations of Nodeschool tutorials",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.4.0",
+    "how-to-npm": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaoloLaurenti/nodeschool.git"
+  },
+  "author": "Paolo Laurenti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaoloLaurenti/nodeschool/issues"
+  },
+  "homepage": "https://github.com/PaoloLaurenti/nodeschool#readme"
+}
