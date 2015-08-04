@@ -1,14 +1,19 @@
 {
   "name": "@paololaurenti/how-to-npm",
   "version": "1.0.0",
-  "description": "",
+  "description": "Some description",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
+  "author": "Paolo Laurenti",
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "somerepo/repo/address.git"
   }
 }
