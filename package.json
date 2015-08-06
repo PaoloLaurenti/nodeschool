@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "async": "^1.4.0",
+    "async-you": "^1.0.0",
     "how-to-npm": "^2.0.0",
     "javascripting": "^2.0.3",
     "learnyounode": "^2.7.1",
