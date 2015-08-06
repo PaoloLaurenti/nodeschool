@@ -5,7 +5,11 @@
   "main": "index.js",
   "dependencies": {
     "async": "^1.4.0",
-    "how-to-npm": "^2.0.0"
+    "how-to-npm": "^2.0.0",
+    "javascripting": "^2.0.3",
+    "learnyounode": "^2.7.1",
+    "scope-chains-closures": "^1.0.4",
+    "stream-adventure": "^4.0.3"
   },
   "devDependencies": {},
   "scripts": {
