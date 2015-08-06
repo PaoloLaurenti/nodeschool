@@ -10,7 +10,8 @@
     "javascripting": "^2.0.3",
     "learnyounode": "^2.7.1",
     "scope-chains-closures": "^1.0.4",
-    "stream-adventure": "^4.0.3"
+    "stream-adventure": "^4.0.3",
+    "through2": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {
