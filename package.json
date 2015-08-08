@@ -15,7 +15,8 @@
     "split": "^1.0.0",
     "stream-adventure": "^4.0.3",
     "through": "^2.3.8",
-    "through2": "^2.0.0"
+    "through2": "^2.0.0",
+    "websocket-stream": "^1.5.1"
   },
   "devDependencies": {},
   "scripts": {
