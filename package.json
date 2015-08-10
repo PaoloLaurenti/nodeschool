@@ -16,6 +16,7 @@
     "stream-adventure": "^4.0.3",
     "through": "^2.3.8",
     "through2": "^2.0.0",
+    "trumpet": "^1.7.1",
     "websocket-stream": "^1.5.1"
   },
   "devDependencies": {},
