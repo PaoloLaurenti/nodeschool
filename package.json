@@ -8,6 +8,7 @@
     "async-you": "^1.0.0",
     "concat-stream": "^1.5.0",
     "duplexer": "^0.1.1",
+    "duplexer2": "0.0.2",
     "how-to-npm": "^2.0.0",
     "javascripting": "^2.0.3",
     "learnyounode": "^2.7.1",
