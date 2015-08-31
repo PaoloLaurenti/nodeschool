@@ -12,6 +12,7 @@
     "how-to-npm": "^2.0.0",
     "javascripting": "^2.0.3",
     "learnyounode": "^2.7.1",
+    "lodash": "^3.10.1",
     "planetproto": "^0.6.0",
     "promise-it-wont-hurt": "^0.1.0",
     "q": "^1.4.1",
