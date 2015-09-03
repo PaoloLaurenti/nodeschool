@@ -2,12 +2,12 @@ var Promise = require('bluebird');
 
 var delay = function() {
   return new Promise(function(resolve, reject) {
-      setTimeout(resolve, 3000, "RESOLVED!");
+      setTimeout(reject, 3000, new Error("REJECTED!"));
   });
 };
 
 delay()
-  .then(function(result) {
-    console.log(result)
+  .then(null, function(err) {
+    console.log(err.message);
   }
 );
