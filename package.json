@@ -23,6 +23,7 @@
     "split": "^1.0.0",
     "stream-adventure": "^4.0.3",
     "stream-combiner": "^0.2.2",
+    "tape": "^4.2.0",
     "tar": "^2.1.1",
     "test-anything": "^1.1.5",
     "through": "^2.3.8",
